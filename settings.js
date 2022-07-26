@@ -9,7 +9,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6281281401775','6287877173955','0']
+global.ownerNumber = ['6281281401775','6287877173955']
 global.ownerName = 'Fandyyy X All Creator'
 global.packname = 'Ichigo Kurosaki'
 global.author = 'Whatsapp Bot 2022'
